@@ -12,6 +12,13 @@ The dashboards provide a **comprehensive overview of Snowflake operational metri
 
 ## 📁 Dashboards Created
 
+
+<p align="center">
+  <img src="https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis/blob/main/Images/Event%20Costs.png" width="45%" height="100%"/>
+  &nbsp;
+  <img src="https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis/blob/main/Images/Warehouse%20Compute%20Costs.png" width="35%" />
+</p>
+
 ### 1. **Warehouse Events History**
 
 * Pivot table showing manual vs auto warehouse start/stop/resume events.
@@ -67,12 +74,18 @@ The dashboards provide a **comprehensive overview of Snowflake operational metri
 
 ## 📷 Sample Screenshots
 
-> *(Add screenshot markdown links below once hosted on GitHub)*
 
-```markdown
-![Warehouse Events](images/warehouse-events.png)
 
-```
+<p align="center">
+  
+  <img src="https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis/blob/main/Images/Database%20Storage%20Costs.png" width="45%" height="80%"/>
+   &nbsp;
+  <img src="https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis/blob/main/Images/Warehouse%20Metering%20Costs.png" width="50%" height="80%"/>
+  <img src="https://github.com/roshinip21/Sigma-Dashboard-Snowflake-WH-Data-Analysis/blob/main/Images/Warehouse%20Compute.png" width="45%" />
+  &nbsp;
+</p>
+
+
 
 ---
 
