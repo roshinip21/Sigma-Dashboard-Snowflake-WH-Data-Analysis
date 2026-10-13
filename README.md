@@ -95,4 +95,12 @@ The dashboards provide a **comprehensive overview of Snowflake operational metri
 * Integrate usage forecasting using ML.
 * Export capability for offline business reviews.
 
+## Copyright
+
+Copyright (C) 2026 Roshini Padmanabha. All rights reserved.
+
+This code is provided for portfolio display and educational purposes only. 
+No permission is granted to copy, modify, distribute, or use this software for any purpose without explicit written permission from the copyright holder.
+
+
 
